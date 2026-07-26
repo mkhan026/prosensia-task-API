@@ -9,10 +9,10 @@ A RESTful API for task management built with Node.js, Express, and MongoDB.
 - MongoDB with Mongoose
 - Clean and modular code structure
 
-## 🛠️ Tech Stack
+##  Tech Stack
 **Node.js** | **Express.js** | **MongoDB** | **Mongoose** | **JWT**
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the repository
 ```bash
